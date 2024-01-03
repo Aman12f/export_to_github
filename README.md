@@ -38,8 +38,8 @@ steo 12 : git branch -M new_branch_name (to rename branch)
 step 13 : git push origin branch_name
 <Br>
 
-------------------END-----------------
-++++++++---=>BRANCH COMMANDS<=----+++++++ 
+------------------END-----------------<Br>
+++++++++---=>BRANCH COMMANDS<=----+++++++ <Br>
 To visit another branch : git checkout branch_name <br>
 to delete branch : git branch -d <branch name><br>
 TO REname branch -M branch_name (to rename branch)<br>
