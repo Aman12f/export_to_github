@@ -16,3 +16,13 @@ step 7 : Add and commit {
     write git add .
     and git commit -m "{this is messages for what changes are made}"
 }
+
+step 8 : Visit github + repositories + new + copy code 
+
+step 9 : write in vs code terminal => git remote add origin ('copied https link')
+
+step 10 : git remote -v (to verify remote)
+step 11 : git branch (to check branch)
+steo 12 : git branch -M new_branch_name (to rename branch)
+step 13 : git push origin branch_name
+
